@@ -107,4 +107,11 @@ https://yarnpkg.com/getting-started/migration
 
 엔트리 인덱스를 만들어서 사용하는 것을 권장한다!
 
+디자인 시스템에 대해 공부!
+
+📌 Monorepo != Monolith
+
+모노레포 사용시 깃 전략
+TBD - Trunk Base Development 
+
 

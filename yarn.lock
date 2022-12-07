@@ -2569,6 +2569,8 @@ __metadata:
 "yarn-berry-workspace@workspace:.":
   version: 0.0.0-use.local
   resolution: "yarn-berry-workspace@workspace:."
+  dependencies:
+    typescript: ^4.9.3
   languageName: unknown
   linkType: soft
 
